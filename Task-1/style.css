@@ -1,0 +1,85 @@
+body{
+    background-color: #f8f8f8;
+}
+h1 h2 h3 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+}
+a{
+    font-size: 16px;
+    color: #0066cc;
+    text-decoration: none;
+}
+.menu{
+   list-style: none;
+}
+.spec{
+    list-style-image: url("img/galochka_site.png");
+    color: #2F4F4F;
+    font-style: normal;
+    text-transform: lowercase;
+    font-weight: 300;
+}
+.oldprice{
+    color: #8B0000;
+}
+.short{
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.item{
+    border: 8px solid #2F4F4F;
+}
+.detailed{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.contacts{
+    font-size: 42px;
+    color: #2F4F4F;
+    font-weight: 400;
+}
+.form_title{
+    font-size: 18px;
+    color: #333;
+    font-weight: 600px;
+}
+.legend{
+    border-radius: 5px;
+    box-shadow: 0 0 7px 1px #707070;
+}
+.input{
+    border-radius: 5px;
+    width: 300px;
+    height: 20px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 300;
+}
+.text{
+    border-radius: 5px;
+    width: 300px;
+    height: 150px;
+    font-style: italic;
+    font-size: 14px;
+    color: #000;
+    font-weight: 600;
+}
+.btn{
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    border: 0;
+    background: #2F4F4F;
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 400;
+    cursor: pointer;
+}
