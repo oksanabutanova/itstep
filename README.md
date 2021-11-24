@@ -1,2 +1,2 @@
 # itstep
-https://your-oksanabutanova/itstep-cv/cv,
+https://oksanabutanova/itstep-cv/cv,
